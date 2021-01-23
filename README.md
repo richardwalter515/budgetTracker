@@ -19,7 +19,7 @@ This Budget Tracker allows the user to keep track of their income and spending. 
 ## Usage <a name="usage"></a>
 To use, navigate to the app in your browser and begin adding budget items!
 
-You can find the app [here](https://secure-hollows-10632.herokuapp.com/).
+You can find the app [here](https://limitless-eyrie-53439.herokuapp.com/).
 
 
 ## Questions <a name="questions"></a>
